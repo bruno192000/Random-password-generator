@@ -20,7 +20,7 @@
  <img src="./5071158.129999996_image.png" alt="Failed to load picture"></a>
 
  ## <h2 id="Future"><i> Future Update</i></h2>
- <p> As you might see, it has some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href=" " target="_blank">here</p>
+ <p> As you might see, it has some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href="https://bruno192000.github.io/Random-password-generator/" target="_blank">here</p>
 
  ## <h2 id="contact"><i>Contact information</i></h2>
 <p> As always, you'll find 3 ways to contact me:</p>
